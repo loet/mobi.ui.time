@@ -1,4 +1,4 @@
-/* mobi.ui.time - v0.0.4 - 2014-12-16 */
+/* mobi.ui.time - v0.0.5 - 2014-12-16 */
 
 angular.module('mobi.ui.time.directives', [
         'mobi.ui.time.services'
