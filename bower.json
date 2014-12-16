@@ -1,0 +1,15 @@
+{
+  "name": "mobi.ui.time",
+  "version": "0.0.1",
+  "homepage": "https://github.com/loet/mobi.ui.time",
+  "authors": [
+    "U110730 <ueli.loetscher@mobi.ch>"
+  ],
+  "description": "angular module providing TimeService and directive",
+  "main": "src/time.js",
+  "license": "N/A",
+  "devDependencies": {
+    "angular": "1.2.21",
+    "angular-mocks": "1.2.21"
+  }
+}

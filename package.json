@@ -1,0 +1,26 @@
+{
+  "name": "mobi.ui.time",
+  "version": "0.0.1",
+  "description": "angular module providing TimeService and directive",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/loet/mobi.ui.time.git"
+  },
+  "author": "U110730 <ueli.loetscher@mobi.ch>",
+  "license": "N/A",
+  "homepage": "https://github.com/loet/mobi.ui.time",
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "karma": "~0.12.28",
+    "grunt-karma": "~0.9.0",
+    "grunt-contrib-concat": "~0.5.0",
+    "jasmine-core": "~2.1.3",
+    "karma-jasmine": "~0.3.2",
+    "karma-phantomjs-launcher": "~0.1.4",
+    "karma-chrome-launcher": "~0.1.7"
+  }
+}
